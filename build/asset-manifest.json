@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.733e90d4.css",
+    "main.js": "/static/js/main.7c4925ad.js",
+    "static/js/787.f706474e.chunk.js": "/static/js/787.f706474e.chunk.js",
+    "static/media/mockuuups-woman-hand-holding-iphone-12-mockup-black-skin 1.png": "/static/media/mockuuups-woman-hand-holding-iphone-12-mockup-black-skin 1.3301b8aeef3e9acc96f3.png",
+    "static/media/Group.svg": "/static/media/Group.29afb7eb4059f9c3d40b21c70f682cb1.svg",
+    "static/media/Vector.svg": "/static/media/Vector.159b7636a43cc82476e712a14639ea24.svg",
+    "static/media/Group 1.svg": "/static/media/Group 1.7ea8bcd58f85f1fa50f5271d615659d5.svg",
+    "static/media/Group2.svg": "/static/media/Group2.2560cf4eba4fa8a623a5bbb44aa03c00.svg",
+    "index.html": "/index.html",
+    "main.733e90d4.css.map": "/static/css/main.733e90d4.css.map",
+    "main.7c4925ad.js.map": "/static/js/main.7c4925ad.js.map",
+    "787.f706474e.chunk.js.map": "/static/js/787.f706474e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.733e90d4.css",
+    "static/js/main.7c4925ad.js"
+  ]
+}
